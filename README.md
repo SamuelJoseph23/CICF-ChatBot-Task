@@ -94,7 +94,7 @@ ChatBot closed
 
 ## Code
 
-
+```
 tasks = []
 
 while True:
@@ -136,8 +136,7 @@ elif choice == "4":
     break
 else:
     print("Invalid choice. Please try again with a valid number")
-
-
+```
 
 ---
 
